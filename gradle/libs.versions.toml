@@ -1,6 +1,6 @@
 [versions]
 
-coroutines = "1.8.1"
+coroutines = "1.11.0"
 jvmTarget = "21"
 kotlin = "2.0.10"
 mockk = "1.13.12"
