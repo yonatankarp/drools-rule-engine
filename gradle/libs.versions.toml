@@ -8,7 +8,7 @@ mockkSpring = "4.0.2"
 spotless = "6.25.0"
 springDependencyManagement = "1.1.6"
 springboot = "3.3.3"
-droolsVersion = "9.44.0.Final"
+droolsVersion = "10.2.0"
 
 [libraries]
 
